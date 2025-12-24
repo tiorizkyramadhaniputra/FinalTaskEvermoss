@@ -13,7 +13,7 @@ Aplikasi E-Commerce sederhana berbasis RESTful API yang dibangun menggunakan **G
 ### 1. Registrasi & Login (Poin 1-4)
 User berhasil mendaftar dan mendapatkan JWT Token untuk akses fitur terproteksi.
 > ![Register](assets/register_success.png.jpeg)
-> ![Login](assets/login_success.png.jpg)
+> ![Login](assets/login_success.png.jpeg)
 
 ### 2. Tambah Alamat & Produk (Poin 5 & 9)
 Setiap user bisa mendaftarkan alamat pengiriman dan menambahkan produk ke toko mereka.
